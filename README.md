@@ -3,7 +3,7 @@
 ## <p align="center" style="margin-top: 0;">Online Course Booking System</p>
 
 <p align="center">
-  <img src="LogoUnsulbar.png" width="300" alt="Deskripsi gambar" />
+  <img src="/public/LogoUnsulbar.png" width="300" alt="Deskripsi gambar" />
 </p>
 
 ### <p align="center">ARIQAH MAHESWARI ARTALAYSIA PATURUSI</p>
