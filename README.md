@@ -1,8 +1,18 @@
-# SERBU TUTOR - Online Course Booking System
 
-Sistem ini merupakan platform pemesanan kursus online yang dikembangkan menggunakan framework Laravel. Sistem ini memiliki tiga jenis peran pengguna utama: **Admin**, **Mentor**, dan **Mentee/Peserta**.
+# <p align="center" style="margin-bottom: 0px;">SERBU TUTOR</p>
+## <p align="center" style="margin-top: 0;">Online Course Booking System</p>
 
-## 🧑‍💼 Role dan Fitur
+<p align="center">
+  <img src="LogoUnsulbar.png" width="300" alt="Deskripsi gambar" />
+</p>
+
+### <p align="center">ARIQAH MAHESWARI ARTALAYSIA PATURUSI</p>
+### <p align="center">D0223313</p></br>
+### <p align="center">Framework Web Based</p>
+### <p align="center">2025</p>
+
+
+## Role dan Fitur
 
 ### Admin
 - Mengelola semua user
@@ -22,7 +32,7 @@ Sistem ini merupakan platform pemesanan kursus online yang dikembangkan mengguna
 - Melakukan pemesanan kursus
 - Melihat jadwal
 
-## 🗃️ Struktur Tabel Database
+## Struktur Tabel Database
 
 ### Tabel: `users`
 | Field       | Tipe Data         | Keterangan                      |
@@ -75,7 +85,7 @@ Sistem ini merupakan platform pemesanan kursus online yang dikembangkan mengguna
 | created_at     | `timestamp`       | Tanggal dibuat         |
 | updated_at     | `timestamp`       | Tanggal update         |
 
-## 🔁 Relasi Antar Tabel
+## Relasi Antar Tabel
 
 | Tabel Asal | Tabel Tujuan | Relasi       | Penjelasan                                |
 |------------|--------------|--------------|--------------------------------------------|
@@ -84,11 +94,4 @@ Sistem ini merupakan platform pemesanan kursus online yang dikembangkan mengguna
 | kursus     | pemesanan    | One to Many  | Satu kursus dapat dipesan oleh banyak mentee |
 | kategori   | kursus       | One to Many  | Satu kategori memiliki banyak kursus       |
 
-## 🛠️ Teknologi
-- Laravel (PHP Framework)
-- MySQL (Database)
-- Blade (Template Engine Laravel)
 
----
-
-© 2025 Ariqah Maheswari Artalaysia Paturusi (D0223313)
