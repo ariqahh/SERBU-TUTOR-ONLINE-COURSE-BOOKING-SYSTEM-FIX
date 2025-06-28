@@ -42,7 +42,7 @@
 | email_verified_at  | `timestamp`       | Verifikasi email                |
 | password           | `varchar`         | Password terenkripsi            |
 | role               | `varchar`         | Role user                       |
-| remember_token     | `varchar`         | Token untuk "remember me"       |
+| remember_token     | `varchar`         | Token untuk "ingat saya"       |
 | created_at         | `timestamp`       | Tanggal dibuat                  |
 | updated_at         | `timestamp`       | Tanggal update                  |
 
